@@ -1,7 +1,10 @@
+"""
+Author: Marktus Atanga
+"""
+
 import sys
 import numpy as np
 import pandas as pd
-sys.path.append(r"C:\Users\maa5m\Data_science_inPython\ML_algorithms")
 from  naive_bayes_algorithm import Naive_Bayes_Classifier
     
 def model_scores(result):
